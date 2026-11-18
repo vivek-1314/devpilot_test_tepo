@@ -7,3 +7,6 @@ def divide(a, b):
         raise ValueError("cannot divide by zero")
     return a / b
 
+
+def multiply(a, b):
+    return a * b
